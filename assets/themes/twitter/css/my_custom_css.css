@@ -63,13 +63,13 @@ h1, h2, h3, h4, h5 {
 
 .danger {
     background-color: #ffdddd;
-    border-left: 6px solid #f44336;
+    border-left: 6px solid rgba(30, 75, 137, 1);
     padding-left: 10px;
 }
 
 .success {
     background-color: #ddffdd;
-    border-left: 6px solid #4CAF50;
+    border-left: 6px solid rgba(30, 75, 137, 1);
     padding-left: 10px;
 }
 
