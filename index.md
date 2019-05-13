@@ -4,14 +4,14 @@ title: Mikhail Spektor
 description: Dr. Mikhail Spektor is a postdoctoral researcher at the University of Freiburg.
 ---
 
-<h1 id="news">News</h1>
+<h3 id="news">News</h3>
 <p><a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
 
-<h1 id="thesis-supervision">Thesis supervision</h1>
+<h3 id="thesis-supervision">Thesis supervision</h3>
 <p>I currently <strong>do not</strong> offer supervision of additional theses.</p>
-<h1 id="teaching">Teaching</h1>
+<h3 id="teaching">Teaching</h3>
 <p>I am currently teaching a course on data acquisition, analysis, and modeling (click <a href="https://campus.uni-freiburg.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&amp;unitId=8212"><strong>here</strong></a> for more details).</p>
-<h1 id="publications-equal-contribution">Publications (* = equal contribution)</h1>
+<h3 id="publications-equal-contribution">Publications (* = equal contribution)</h3>
 <div id="refs" class="references">
 <div id="ref-Fontanesi2019">
 <p>Fontanesi, L., Gluth, S., <strong>Spektor, M. S.</strong>, &amp; Rieskamp, J. (2019). A reinforcement learning diffusion decision model for value-based decisions. <em>Psychonomic Bulletin &amp; Review</em>. Advance online publication. <a href="https://doi.org/10.3758/s13423-018-1554-2" class="uri">https://doi.org/10.3758/s13423-018-1554-2</a></p>
@@ -19,7 +19,7 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 <div id="ref-Spektor2019">
 <p><strong>Spektor, M. S.</strong>, Gluth, S., Fontanesi, L., &amp; Rieskamp, J. (2019). How similarity between choice options affects decisions from experience: The accentuation of differences model. <em>Psychological Review</em>, <em>126</em>, 52&ndash;88. <a href="https://doi.org/10.1037/rev0000122" class="uri">https://doi.org/10.1037/rev0000122</a></p>
 </div>
-<div id="ref-Gluth2018">
+<div id="ref-Gluth3018">
 <p>Gluth, S.*, <strong>Spektor, M. S.*</strong>, &amp; Rieskamp, J. (2018). Value-based attentional capture affects multi-alternative decision making. <em>eLife</em>, <em>7</em>, 1&ndash;36. <a href="https://doi.org/10.7554/eLife.39659" class="uri">https://doi.org/10.7554/eLife.39659</a></p>
 </div>
 <div id="ref-Spektor2018">
