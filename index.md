@@ -12,7 +12,8 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 	<li>
 		<p>January 10, 2019: <a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
 	</li>
-<\ul>
+</ul>
+
 <h3 id="thesis-supervision">Thesis supervision</h3>
 <p>I currently <strong>do not</strong> offer supervision of additional theses.</p>
 <h3 id="teaching">Teaching</h3>
