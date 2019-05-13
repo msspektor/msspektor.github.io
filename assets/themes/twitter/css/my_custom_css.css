@@ -24,12 +24,6 @@ a img {
     border: solid 2px white;
 }
 
-a:hover img {
-    color: rgba(30, 75, 137, 1);
-    background-color: rgba(255, 255, 255, 1);
-    text-decoration: none;
-    border: solid 5px rgba(255, 255, 255, 1);
-}
 
 p.center {
     text-align: center;
