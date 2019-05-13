@@ -12,14 +12,13 @@ keywords: Blue, Ham, treats, recycling, mail, being a good boy
             <table>
                 <tbody>
                     <tr>
-                        <td><img width="125" border="5" src="/abteilungen/Sozialpsychologie.Methodenlehre/staff/spektor.jpeg" style="margin-right: 20px;" alt="Mikhail Spektor" /></td>
+                        <td><img width="125" border="5" src="images/spektor.jpg" style="margin-right: 20px;" alt="Mikhail Spektor" /></td>
                         <td><blockquote>
-                        <p><strong><font size="3">Contact:</font></strong>                         <br />
-                        University of Freiburg&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
-                        Department of Psychology&nbsp;<br />
+                        <p><strong><font size="3">Contact:</font></strong> <br />
+                        University of Freiburg <br />
+                        Department of Psychology <br />
                         Engelbergerstrasse 41 <br />
-                        79085 Freiburg                          <br />
-                        Research group: <a href="/abteilungen/Sozialpsychologie.Methodenlehre">Social Psychology and Methodology</a></p>
+                        79085 Freiburg <br />
                         <!-- hier ist eine neue Tabelle, damit Telefon, Fax und Mail exakt untereinander stehen -->
                         <table border="0">
                             <!-- Die Nachfolgende Zeile wir 1:1 in der script-Datei abgefragt. Aenderungen in diesem Text,
