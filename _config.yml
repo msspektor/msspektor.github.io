@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Blue Ham
+title : Mikhail Spektor
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
+  name : Mikhail Spektor
+  email : mikhail@spektor.ch
+  github : msspektor
+  twitter : SpektorMikhail
 
-production_url : http://marisabriana.github.io
+production_url : https://msspektor.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
