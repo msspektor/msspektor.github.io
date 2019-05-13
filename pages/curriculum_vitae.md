@@ -1,15 +1,41 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Research
 ---
 
+<h1 id="education">Education</h1>
+<ul>
+    <li>
+    <p><span><strong>PhD, University of Basel (2014&ndash;2018)</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>MSc, University of Heidelberg (2012&ndash;2014)</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>BSc, University of Heidelberg (2009&ndash;2012)</strong></span></p>
+    </li>
+</ul>
+<h1 id="research-interests">Research interests</h1>
+<ul>
+    <li>
+    <p><span><strong>Decisions under risk and uncertainty</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>Learning and decision making</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>Context-dependent preferences</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>Cognitive modeling</strong></span></p>
+    </li>
+</ul>
 
+<h1 id="curriculum-vitæ">Curriculum vitæ</h1>
+<p>You can find my full curriculum vit<span>æ</span> <strong><a href="{{ BASE_PATH}}/documents/spektor_cv.pdf">here</a>&nbsp;</strong>(updated: March 28, 2019).</p>
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+[click here for the most recent version of the paper]()
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
