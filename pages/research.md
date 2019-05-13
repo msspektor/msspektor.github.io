@@ -4,19 +4,22 @@ title: Research
 description: Research
 ---
 
-
-
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
-
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
-
-
-<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
-
-<!--
-To increase the size of the title, use fewer # in front of the paper title.
-To decrease the size of the title, use more #. 
-To remove the italics, remove the * before and after the description
-To remove the underline from the title, remove the <u> tags (<u> and </u>)
--->
+<h3 id="publications-equal-contribution">Publications (* = equal contribution)</h3>
+<div id="refs" class="references">
+<div id="ref-Fontanesi2019">
+<p>Fontanesi, L., Gluth, S., <strong>Spektor, M. S.</strong>, &amp; Rieskamp, J. (2019). A reinforcement learning diffusion decision model for value-based decisions. <em>Psychonomic Bulletin &amp; Review</em>. Advance online publication. <a href="https://doi.org/10.3758/s13423-018-1554-2" class="uri">https://doi.org/10.3758/s13423-018-1554-2</a></p>
+</div>
+<div id="ref-Spektor2019">
+<p><strong>Spektor, M. S.</strong>, Gluth, S., Fontanesi, L., &amp; Rieskamp, J. (2019). How similarity between choice options affects decisions from experience: The accentuation of differences model. <em>Psychological Review</em>, <em>126</em>, 52&ndash;88. <a href="https://doi.org/10.1037/rev0000122" class="uri">https://doi.org/10.1037/rev0000122</a></p>
+</div>
+<div id="ref-Gluth3018">
+<p>Gluth, S.*, <strong>Spektor, M. S.*</strong>, &amp; Rieskamp, J. (2018). Value-based attentional capture affects multi-alternative decision making. <em>eLife</em>, <em>7</em>, 1&ndash;36. <a href="https://doi.org/10.7554/eLife.39659" class="uri">https://doi.org/10.7554/eLife.39659</a></p>
+</div>
+<div id="ref-Spektor2018">
+<p><strong>Spektor, M. S.</strong>, &amp; Kellen, D. (2018). The relative merit of empirical priors in non-identifiable and sloppy models: Applications to models of learning and decision-making. <em>Psychonomic Bulletin &amp; Review</em>, <em>25</em>, 2047&ndash;2068. <a href="https://doi.org/10.3758/s13423-018-1446-5" class="uri">https://doi.org/10.3758/s13423-018-1446-5</a>. Full text: <a href="http://rdcu.be/J18i" class="uri">http://rdcu.be/J18i</a></p>
+</div>
+<div id="ref-Spektor2018a">
+<p><strong>Spektor, M. S.</strong>, Kellen, D., &amp; Hotaling, J. M. (2018). When the good looks bad: An experimental exploration of the repulsion effect. <em>Psychological Science</em>, <em>29</em>, 1309&ndash;1320. <a href="https://doi.org/10.1177/0956797618779041" class="uri">https://doi.org/10.1177/0956797618779041</a></p>
+</div>
+</div>
+<p>&nbsp;</p>
