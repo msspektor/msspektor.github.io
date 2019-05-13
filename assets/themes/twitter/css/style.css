@@ -1,7 +1,7 @@
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 700px; }
+  max-width: 800px; }
 
 .container-narrow > hr {
   margin: 30px 0; }
@@ -47,7 +47,7 @@
   padding: 3px 6px;
   margin: 2px;
   background: #eee;
-  color: #555;
+  color: rgba(30, 75, 137, 1);
   border-radius: 3px;
   text-decoration: none;
   border: 1px dashed #cccccc; }
@@ -60,6 +60,6 @@
   background-color: #e5e5e5; }
 
 .tag_box a.active {
-  background: #57A957;
-  border: 1px solid #4c964d;
+  background: rgba(30, 75, 137, 1);
+  border: 1px solid rgba(30, 75, 137, 1);
   color: #FFF; }
