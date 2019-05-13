@@ -3,7 +3,6 @@ layout: page
 title: Curriculum vitæ
 description: Curriculum vitæ
 ---
-
 <h3 id="education">Education</h3>
 <ul>
     <li>
