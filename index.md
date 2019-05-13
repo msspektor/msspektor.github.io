@@ -1,48 +1,13 @@
 ---
 layout: frontpage
 title: Mikhail Spektor
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+description: Dr. Mikhail Spektor is a postdoctoral researcher at the University of Freiburg.
 ---
 
-<table border="0">
-    <tbody>
-        <tr>
-            <td>
-            <table>
-                <tbody>
-                    <tr>
-                        <td><img width="125" border="5" src="images/spektor.jpg" style="margin-right: 20px;" alt="Mikhail Spektor" /></td>
-                        <td><blockquote>
-                        <p><strong><font size="3">Contact:</font></strong> <br />
-                        University of Freiburg <br />
-                        Department of Psychology <br />
-                        Engelbergerstrasse 41 <br />
-                        79085 Freiburg <br />
-                        <!-- hier ist eine neue Tabelle, damit Telefon, Fax und Mail exakt untereinander stehen -->
-                        <table border="0">
-                            <!-- Die Nachfolgende Zeile wir 1:1 in der script-Datei abgefragt. Aenderungen in diesem Text,
-                            selbst wenn es nur ein Zeilenumbruch ist, muessen dort beruecksichtigt werden! -->
-                            <tbody>
-                                <tr>
-                                    <td width="50">E-Mail:</td>
-                                    <td>mikhail.spektor@psychologie.uni-freiburg.de</td>
-                                </tr>
-                                <tr>
-                                    <td width="50">Phone:</td>
-                                    <td>+49 (0)761 203 24 76</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        </blockquote></td>
-                    </tr>
-                </tbody>
-            </table>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p>&nbsp;</p>
+<h1 id="news">News</h1>
+<p><a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
+
+
 <h1 id="curriculum-vitæ">Curriculum vitæ</h1>
 <p>You can find my full curriculum vit<span>æ</span> <strong><a href="/Members/mspektor/spektorCV/">here</a>&nbsp;</strong>(updated: January 3, 2019).</p>
 <h1 id="education">Education</h1>
@@ -123,18 +88,23 @@ Website is under construction!
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact:"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Mikhail Spektor <br/>
+            University of Freiburg <br/>
+            Department of Psychology <br/>
+            Engelbergerstrasse 41 <br/>
+            79085 Freiburg <br/>
+            Phone: +49 (0)761 203 24 76 <br/>
+            Email: mikhail@spektor.ch <br/>
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../images/spektor.jpg">
+            <img src="../images/spektor.jpg"
+                  title="Mikhail Spektor" alt="Mikhail Spektor"/></a>
         </div>
     </div>
 </div>
