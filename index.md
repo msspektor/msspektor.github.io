@@ -7,7 +7,6 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 <h1 id="news">News</h1>
 <p><a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
 
-
 <h1 id="curriculum-vitæ">Curriculum vitæ</h1>
 <p>You can find my full curriculum vit<span>æ</span> <strong><a href="/Members/mspektor/spektorCV/">here</a>&nbsp;</strong>(updated: January 3, 2019).</p>
 <h1 id="education">Education</h1>
@@ -38,27 +37,13 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
     </li>
 </ul>
 <h1 id="thesis-supervision">Thesis supervision</h1>
-<p>I offer supervision of master&rsquo;s theses on the following topics (click <a href="/abteilungen/Sozialpsychologie.Methodenlehre/Internships%20and%20Theses/internships.html"><strong>here</strong></a> for more details):</p>
-<ul>
-    <li>
-    <p><span><strong>Influence of attention on perceptual decision making</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>Cognitive modeling of learning processes</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>Transitivity of preferences</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>Influence of information search on context-dependent preferences</strong></span></p>
-    </li>
-</ul>
+<p>I currently <strong>do not</strong> offer supervision of additional theses.</p>
 <h1 id="teaching">Teaching</h1>
-<p>I will be teaching a course on data acquisition, analysis, and modeling in summer (click <a href="https://campus.uni-freiburg.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&amp;unitId=8212"><strong>here</strong></a> for more details).</p>
+<p>I am currently teaching a course on data acquisition, analysis, and modeling (click <a href="https://campus.uni-freiburg.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&amp;unitId=8212"><strong>here</strong></a> for more details).</p>
 <h1 id="publications-equal-contribution">Publications (* = equal contribution)</h1>
 <div id="refs" class="references">
-<div id="ref-Fontanesi2018">
-<p>Fontanesi, L., Gluth, S., <strong>Spektor, M. S.</strong>, &amp; Rieskamp, J. (in press). A reinforcement learning diffusion decision model for value-based decisions. <em>Psychonomic Bulletin &amp; Review</em>.</p>
+<div id="ref-Fontanesi2019">
+<p>Fontanesi, L., Gluth, S., <strong>Spektor, M. S.</strong>, &amp; Rieskamp, J. (2019). A reinforcement learning diffusion decision model for value-based decisions. <em>Psychonomic Bulletin &amp; Review</em>. Advance online publication. <a href="https://doi.org/10.3758/s13423-018-1554-2" class="uri">https://doi.org/10.3758/s13423-018-1554-2</a></p>
 </div>
 <div id="ref-Spektor2019">
 <p><strong>Spektor, M. S.</strong>, Gluth, S., Fontanesi, L., &amp; Rieskamp, J. (2019). How similarity between choice options affects decisions from experience: The accentuation of differences model. <em>Psychological Review</em>, <em>126</em>, 52&ndash;88. <a href="https://doi.org/10.1037/rev0000122" class="uri">https://doi.org/10.1037/rev0000122</a></p>
@@ -74,15 +59,6 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 </div>
 </div>
 <p>&nbsp;</p>
-
-
-Website is under construction!
-
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/documents/spektor_cv.pdf)<br/>
-
-<h1 id="teaching">Teaching</h1>
-<p>I will be teaching a course on data acquisition, analysis, and modeling in summer (click <a href="https://campus.uni-freiburg.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&amp;unitId=8212"><strong>here</strong></a> for more details).</p>
-
 
 ---
 
