@@ -21,7 +21,7 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 <div class="container">
 <h4><a name="contact"></a>Contact:</h4>
 
-    <div class="row align-items-center">
+    <div class="row-fluid">
         <div class="span5">
             <b>Mikhail Spektor</b><br/>
             University of Freiburg <br/>
