@@ -88,7 +88,7 @@ Website is under construction!
 
 
 <div class="container">
-<h4><a name="Contact:"></a>contact</h4>
+<h4><a name="contact"></a>Contact:</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -108,6 +108,47 @@ Website is under construction!
         </div>
     </div>
 </div>
+
+
+<table border="0">
+    <tbody>
+        <tr>
+            <td>
+            <table>
+                <tbody>
+                    <tr>
+                        <td><img width="125" border="5" src="/abteilungen/Sozialpsychologie.Methodenlehre/staff/spektor.jpeg" style="margin-right: 20px;" alt="Mikhail Spektor" /></td>
+                        <td><blockquote>
+                        <p><strong><font size="3">Contact:</font></strong>                         <br />
+                        University of Freiburg&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+                        Department of Psychology&nbsp;<br />
+                        Engelbergerstrasse 41 <br />
+                        79085 Freiburg                          <br />
+                        Research group: <a href="/abteilungen/Sozialpsychologie.Methodenlehre">Social Psychology and Methodology</a></p>
+                        <!-- hier ist eine neue Tabelle, damit Telefon, Fax und Mail exakt untereinander stehen -->
+                        <table border="0">
+                            <!-- Die Nachfolgende Zeile wir 1:1 in der script-Datei abgefragt. Aenderungen in diesem Text,
+                            selbst wenn es nur ein Zeilenumbruch ist, muessen dort beruecksichtigt werden! -->
+                            <tbody>
+                                <tr>
+                                    <td width="50">E-Mail:</td>
+                                    <td>mikhail.spektor@psychologie.uni-freiburg.de</td>
+                                </tr>
+                                <tr>
+                                    <td width="50">Phone:</td>
+                                    <td>+49 (0)761 203 24 76</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </blockquote></td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 <div class="navbar">
   <div class="navbar-inner">
