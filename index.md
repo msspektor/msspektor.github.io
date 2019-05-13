@@ -7,35 +7,6 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 <h1 id="news">News</h1>
 <p><a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
 
-<h1 id="curriculum-vitæ">Curriculum vitæ</h1>
-<p>You can find my full curriculum vit<span>æ</span> <strong><a href="/Members/mspektor/spektorCV/">here</a>&nbsp;</strong>(updated: January 3, 2019).</p>
-<h1 id="education">Education</h1>
-<ul>
-    <li>
-    <p><span><strong>PhD, University of Basel (2014&ndash;2018)</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>MSc, University of Heidelberg (2012&ndash;2014)</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>BSc, University of Heidelberg (2009&ndash;2012)</strong></span></p>
-    </li>
-</ul>
-<h1 id="research-interests">Research interests</h1>
-<ul>
-    <li>
-    <p><span><strong>Decisions under risk and uncertainty</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>Learning and decision making</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>Context-dependent preferences</strong></span></p>
-    </li>
-    <li>
-    <p><span><strong>Cognitive modeling</strong></span></p>
-    </li>
-</ul>
 <h1 id="thesis-supervision">Thesis supervision</h1>
 <p>I currently <strong>do not</strong> offer supervision of additional theses.</p>
 <h1 id="teaching">Teaching</h1>
