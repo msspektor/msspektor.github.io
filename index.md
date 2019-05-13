@@ -67,7 +67,7 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
 <h4><a name="contact"></a>Contact:</h4>
 
     <div class="row-fluid">
-        <div class="span6">
+        <div class="span5">
             <b>Mikhail Spektor</b><br/>
             University of Freiburg <br/>
             Department of Psychology <br/>
