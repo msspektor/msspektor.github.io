@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-description: Blue Ham's research
+title: Teaching and thesis supervision
+description: Teaching and thesis supervision
 ---
 
 <h3 id="thesis-supervision">Thesis supervision</h3>
