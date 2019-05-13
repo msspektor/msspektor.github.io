@@ -91,7 +91,7 @@ Website is under construction!
 <h4><a name="contact"></a>Contact:</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span4">
             <b>Mikhail Spektor</b><br/>
             University of Freiburg <br/>
             Department of Psychology <br/>
@@ -102,7 +102,7 @@ Website is under construction!
         </div>
 
         <div class="span2">
-        <img width="500" border="5" src="../images/spektor.jpg" style="margin-right: 20px;" title="Mikhail Spektor" alt="Mikhail Spektor"/>
+        <img width="125" border="5" src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
         </div>
     </div>
 </div>
@@ -111,8 +111,8 @@ Website is under construction!
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/msspektor">GitHub</a></li>
+          <li><a href="https://twitter.com/SpektorMikhail">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
 </div>
