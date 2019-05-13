@@ -16,7 +16,7 @@ a {
 
 a:hover {
     color: rgba(30, 75, 137, 1);
-    background-color: #e3e4fa;
+    background-color: rgba(30, 75, 137, 1);
     text-decoration: none;
 }
 
@@ -26,9 +26,9 @@ a img {
 
 a:hover img {
     color: rgba(30, 75, 137, 1);
-    background-color: #e3e4fa;
+    background-color: rgba(30, 75, 137, 1);
     text-decoration: none;
-    border: solid 2px #e3e4fa;
+    border: solid 2px rgba(30, 75, 137, 1);
 }
 
 p.center {
@@ -75,13 +75,13 @@ h1, h2, h3, h4, h5 {
 
 .info {
     background-color: rgba(0, 0, 0, 0.065);
-    border-left: 6px solid #2196F3;
+    border-left: 6px solid rgba(30, 75, 137, 1);
     padding-left: 10px;
 }
 
 
 .warning {
     background-color: #ffffcc;
-    border-left: 6px solid #ffeb3b;
+    border-left: 6px solid rgba(30, 75, 137, 1);
     padding-left: 10px;
 }
