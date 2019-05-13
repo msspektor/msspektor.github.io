@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Blue Ham
+title: Mikhail Spektor
 description: Blue Ham is a PhD candidate at Broom University. 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
