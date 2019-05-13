@@ -3,6 +3,21 @@ layout: page
 title: Research
 description: Research
 ---
+<h3 id="research-interests">Research interests</h3>
+<ul>
+    <li>
+    <p><span><strong>Decisions under risk and uncertainty</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>Learning and decision making</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>Context-dependent preferences</strong></span></p>
+    </li>
+    <li>
+    <p><span><strong>Cognitive modeling</strong></span></p>
+    </li>
+</ul>
 
 <h3 id="publications-equal-contribution">Publications (* = equal contribution)</h3>
 <div id="refs" class="references">
