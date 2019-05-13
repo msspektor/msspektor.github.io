@@ -33,7 +33,7 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
         </div>
 
         <div class="span2">
-        <img width="125" padding: 0; margin: 15; src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
+        <img width="125" style="margin:0px; padding:15px;" src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
         </div>
     </div>
 </div>
