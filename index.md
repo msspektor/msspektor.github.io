@@ -102,7 +102,7 @@ Website is under construction!
         </div>
 
         <div class="span2">
-        <img width="150" border="5" src="../images/spektor.jpg" style="margin-right: 20px;" title="Mikhail Spektor" alt="Mikhail Spektor"/>
+        <img width="500" border="5" src="../images/spektor.jpg" style="margin-right: 20px;" title="Mikhail Spektor" alt="Mikhail Spektor"/>
         </div>
     </div>
 </div>

@@ -7,15 +7,15 @@ code {
 }
 
 a code {
-    color: #slateblue;
+    color: rgba(30, 75, 137, 1);
 }
 
 a {
-    color: #slateblue;
+    color: rgba(30, 75, 137, 1);
 }
 
 a:hover {
-    color: darkslateblue;
+    color: rgba(30, 75, 137, 1);
     background-color: #e3e4fa;
     text-decoration: none;
 }
@@ -25,7 +25,7 @@ a img {
 }
 
 a:hover img {
-    color: darkslateblue;
+    color: rgba(30, 75, 137, 1);
     background-color: #e3e4fa;
     text-decoration: none;
     border: solid 2px #e3e4fa;
@@ -58,7 +58,7 @@ td.right {
 
 
 h1, h2, h3, h4, h5 {
-    color: rgba(30,75,137, 1);
+    color: rgba(30, 75, 137, 1);
 }
 
 .danger {
