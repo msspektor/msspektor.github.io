@@ -11,6 +11,9 @@ Website is under construction!
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/documents/spektor_cv.pdf)<br/>
 
+<h1 id="teaching">Teaching</h1>
+<p>I will be teaching a course on data acquisition, analysis, and modeling in summer (click <a href="https://campus.uni-freiburg.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&amp;unitId=8212"><strong>here</strong></a> for more details).</p>
+
 
 ---
 
