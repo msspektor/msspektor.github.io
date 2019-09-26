@@ -22,7 +22,7 @@ description: Research
 <h3 id="publications-equal-contribution">Publications (* = equal contribution)</h3>
 <div id="refs" class="references">
 <div id="ref-Fontanesi2019">
-<p>Fontanesi, L., Gluth, S., <strong>Spektor, M. S.</strong>, &amp; Rieskamp, J. (2019). A reinforcement learning diffusion decision model for value-based decisions. <em>Psychonomic Bulletin &amp; Review</em>. Advance online publication. <a href="https://doi.org/10.3758/s13423-018-1554-2" class="uri">https://doi.org/10.3758/s13423-018-1554-2</a></p>
+<p>Fontanesi, L., Gluth, S., <strong>Spektor, M. S.</strong>, &amp; Rieskamp, J. (2019). A reinforcement learning diffusion decision model for value-based decisions. <em>Psychonomic Bulletin &amp; Review</em>, <em>26</em>, 1099&ndash;1121. <a href="https://doi.org/10.3758/s13423-018-1554-2" class="uri">https://doi.org/10.3758/s13423-018-1554-2</a></p>
 </div>
 <div id="ref-Spektor2019">
 <p><strong>Spektor, M. S.</strong>, Gluth, S., Fontanesi, L., &amp; Rieskamp, J. (2019). How similarity between choice options affects decisions from experience: The accentuation of differences model. <em>Psychological Review</em>, <em>126</em>, 52&ndash;88. <a href="https://doi.org/10.1037/rev0000122" class="uri">https://doi.org/10.1037/rev0000122</a></p>
