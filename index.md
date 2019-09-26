@@ -7,13 +7,13 @@ description: Dr. Mikhail Spektor is an assistant professor at the Universitat Po
 <h3 id="news">News</h3>
 <ul>
 	<li>
-		<p>July 04, 2019: I will present my recent work with the short title "Violations of economic rationality in reinforcement learning are driven by a saliency-dependent reward-prediction-error signal in the ventral striatum" at the Neuroeconomics in Dublin.</p>
+		<p>2019, July 04: I will present my recent work with the short title "Violations of economic rationality in reinforcement learning are driven by a saliency-dependent reward-prediction-error signal in the ventral striatum" at the Neuroeconomics in Dublin.</p>
 	</li>
 	<li>
-		<p>May 13, 2019: New website, still very much under construction.</p>
+		<p>2019, May 13: New website, still very much under construction.</p>
 	</li>
 	<li>
-		<p>January 10, 2019: <a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
+		<p>2019, January 10: <a href="https://www.upf.edu/web/econ/home/-/asset_publisher/Vld4rb7onACA/content/id/223597180/maximized">I will be joining the Universitat Pompeu Fabra as an assistant professor in September 2019</a>.</p>
 	</li>
 </ul>
 
