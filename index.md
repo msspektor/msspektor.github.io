@@ -1,11 +1,14 @@
 ---
 layout: frontpage
 title: Mikhail Spektor
-description: Dr. Mikhail Spektor is a postdoctoral researcher at the University of Freiburg.
+description: Dr. Mikhail Spektor is an assistant professor at the Universitat Pompeu Fabra.
 ---
 
 <h3 id="news">News</h3>
 <ul>
+	<li>
+		<p>July 04, 2019: I will present my recent work with the short title "Violations of economic rationality in reinforcement learning are driven by a saliency-dependent reward-prediction-error signal in the ventral striatum" at the Neuroeconomics in Dublin.
+	</li>
 	<li>
 		<p>May 13, 2019: New website, still very much under construction.</p>
 	</li>
@@ -24,11 +27,11 @@ description: Dr. Mikhail Spektor is a postdoctoral researcher at the University 
     <div class="row-fluid">
         <div class="span5">
             <b>Mikhail Spektor</b><br/>
-            University of Freiburg <br/>
-            Department of Psychology <br/>
-            Engelbergerstrasse 41 <br/>
-            79085 Freiburg <br/>
-            Phone: +49 (0)761 203 24 76 <br/>
+            Universitat Pompeu Fabra <br/>
+            Department of Economics and Business <br/>
+            Ramon Trias Fargas 25-27 <br/>
+            08005 Barcelona <br/>
+            Phone: +34 935 42 2741 <br/>
             Email: mikhail@spektor.ch <br/>
         </div>
 

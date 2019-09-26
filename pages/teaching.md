@@ -5,6 +5,6 @@ description: Teaching and thesis supervision
 ---
 
 <h3 id="thesis-supervision">Thesis supervision</h3>
-<p>I currently <strong>do not</strong> offer supervision of additional theses.</p>
+<p>I offer supervision of theses. If you are interested in working on any of my research topics, feel free to contact me.</p>
 <h3 id="teaching">Teaching</h3>
-<p>I am currently teaching a course on data acquisition, analysis, and modeling (click <a href="https://campus.uni-freiburg.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&amp;unitId=8212"><strong>here</strong></a> for more details).</p>
+<p>Next term, I will be teaching a graduate course on behavioral decision making with a focus on attention and experience (click <a href="https://www.upf.edu/documents/2963149/227051684/Behavioural+Decision+Making+I.pdf"><strong>here</strong></a> for more details).</p>
