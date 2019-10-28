@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Mikhail Spektor
-description: Dr. Mikhail Spektor is an assistant professor at the Universitat Pompeu Fabra.
+description: Mikhail Spektor is an assistant professor at the Universitat Pompeu Fabra.
 ---
 
 <h3 id="news">News</h3>
@@ -29,10 +29,11 @@ description: Dr. Mikhail Spektor is an assistant professor at the Universitat Po
             <b>Mikhail Spektor</b><br/>
             Universitat Pompeu Fabra <br/>
             Department of Economics and Business <br/>
+            Office in Jaume I building, 20.1E38 <br/>
             Ramon Trias Fargas 25-27 <br/>
             08005 Barcelona <br/>
             Phone: +34 935 42 2741 <br/>
-            Email: mikhail@spektor.ch <br/>
+            Email: mikhail.spektor@upf.edu <br/>
         </div>
 
         <div class="span2">
