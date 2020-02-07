@@ -7,6 +7,10 @@ description: Mikhail Spektor is an assistant professor at the Universitat Pompeu
 <h3 id="news">News</h3>
 <ul>
 	<li>
+		<p>2020, January 31: Save the date for the 5th EADM summer school on the topic of learning and decision making! More information on our website: <a href="https://ldmss.org">ldmss.org</a>
+</p>
+	</li>
+	<li>
 		<p>2019, July 04: I will present my recent work with the short title "Violations of economic rationality in reinforcement learning are driven by a saliency-dependent reward-prediction-error signal in the ventral striatum" at the Neuroeconomics in Dublin.</p>
 	</li>
 	<li>
