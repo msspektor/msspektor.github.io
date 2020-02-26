@@ -41,7 +41,7 @@ description: Mikhail Spektor is an assistant professor at the Universitat Pompeu
         </div>
 
         <div class="span2">
-        <img width="125" style="margin:0px; padding:0px;" src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
+        <img width="300" style="margin:0px; padding:0px;" src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
         </div>
     </div>
 </div>
