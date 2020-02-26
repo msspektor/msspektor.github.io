@@ -7,6 +7,10 @@ description: Mikhail Spektor is an assistant professor at the Universitat Pompeu
 <h3 id="news">News</h3>
 <ul>
 	<li>
+		<p>2020, February 15: Registrations for 5th EADM summer school on the topic of learning and decision making are open! More information on our website: <a href="https://ldmss.org">ldmss.org</a>
+</p>
+	</li>
+	<li>
 		<p>2020, January 31: Save the date for the 5th EADM summer school on the topic of learning and decision making! More information on our website: <a href="https://ldmss.org">ldmss.org</a>
 </p>
 	</li>
@@ -41,7 +45,7 @@ description: Mikhail Spektor is an assistant professor at the Universitat Pompeu
         </div>
 
         <div class="span2">
-        <img width="300" style="margin:0px; padding:0px;" src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
+        <img width="400" style="margin:0px; padding:0px;" src="../images/spektor.jpg" title="Mikhail Spektor" alt="Mikhail Spektor"/>
         </div>
     </div>
 </div>
